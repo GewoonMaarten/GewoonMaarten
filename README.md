@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Maarten and I love/hate programming...
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="100%" alt="There is suposed to be a gif here"/>
 <!--
 **GewoonMaarten/GewoonMaarten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
