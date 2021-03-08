@@ -1,3 +1,1 @@
-Hi there 👋, my name is **Maarten** and I love/hate programming...
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="100%" alt="There is suposed to be a gif here"/>
+<img src="https://raw.githubusercontent.com/GewoonMaarten/GewoonMaarten/main/hackerman.jpeg" width="100%" height="100%" alt="Hackerman being cool"/>
